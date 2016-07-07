@@ -14,6 +14,7 @@
 
     <!-- Loading Template CSS -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/mystyle.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet">
 
@@ -642,97 +643,14 @@ begin contact -->
                     <input class="contact-input white-input" required="" name="contact_names" placeholder="Full Name*" type="text">
                     <input class="contact-input white-input" required="" name="contact_email" placeholder="Email Adress*" type="email">
                     <input class="contact-input white-input" required="" name="contact_phone" placeholder="Phone Number*" type="text">
-                    <textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" placeholder="Your Message..."></textarea>
+
                 </div>
                 <!--end col-md-6-->
-
+                    <div class="col-md-6">
+                        <textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" placeholder="Your Message..."></textarea>
+                    </div>
                 <!--begin col-md-6-->
-                <div class="col-md-6  " style="color:#fff">
-                        <div class="media">
-                            <div class="media-left"><i class="fa fa-home"></i></div>
-                            <div class="media-body media-middle">
-                                301 Neymer Road, Glassgow, <br>opposite of denclave zone, <br>WA 1201-403.
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="media-left"><i class="glyphicon glyphicon-phone"></i></div>
-                            <div class="media-body media-middle">
-                                Phone: +123-456-12348 <br>
-                                FAX: +1 0123-4789-8333
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="media-left"><i class="fa fa-comments-o"></i></div>
-                            <div class="media-body media-middle">
-                                <a href="mailto:info@hostpress.com">info@hostpress.com</a>
-                                <ul class="nav nav-pills">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
 
-                    <style>
-                        .contact_content .form_row .detail_address {
-                            width: calc(100% - 633px);
-                            padding: 60px 75px 80px;
-                        }
-                        .contact_content .form_row .detail_address .media + .media {
-                            margin-top: 30px;
-                        }
-                        .contact_content .form_row .detail_address .media + .media .media-left i {
-                            background: #42b6ff;
-                        }
-                        .contact_content .form_row .detail_address .media + .media + .media {
-                            margin-top: 30px;
-                        }
-                        .contact_content .form_row .detail_address .media + .media + .media .media-left i {
-                            background: #f95732;
-                        }
-                        .contact_content .form_row .detail_address .media .media-left {
-                            padding-right: 35px;
-                        }
-                        .contact_content .form_row .detail_address .media .media-left i {
-                            width: 80px;
-                            height: 80px;
-                            line-height: 75px;
-                            background: #267ae9;
-                            text-align: center;
-                            font-size: 24px;
-                            color: #fff;
-                            border-radius: 100%;
-                        }
-                        .contact_content .form_row .detail_address .media .media-body {
-                            padding-top: 5px;
-                            font-family: 'Roboto', sans-serif;
-                            font-weight: 300;
-                            font-size: 18px;
-                            color: #443a44;
-                            letter-spacing: 1px;
-                            line-height: 30px;
-                        }
-                        .contact_content .form_row .detail_address .media .media-body a {
-                            color: #267ae9;
-                        }
-                        .contact_content .form_row .detail_address .media .media-body .nav li a {
-                            padding: 0;
-                            font-family: 'Lato', sans-serif;
-                            font-size: 16px;
-                            color: #4a4a4a;
-                            text-transform: uppercase;
-                        }
-                        .contact_content .form_row .detail_address .media .media-body .nav li a i {
-                            margin-right: 12px;
-                        }
-                        .contact_content .form_row .detail_address .media .media-body .nav li a:hover {
-                            color: #267ae9;
-                            background: none;
-                        }
-                    </style>
-
-                </div>
                 <!--end col-md-6-->
 
                 <!--begin col-md-12-->
@@ -740,6 +658,8 @@ begin contact -->
                     <input value="Send Message" id="submit-button" class="contact-submit" type="submit">
                 </div>
                 <!--end col-md-12-->
+
+
 
             </form>
             <!--end contact form -->
@@ -752,6 +672,52 @@ begin contact -->
 
 </section>
 <!--end contact-->
+<div class="section-grey sponsors-padding">
+
+    <!--begin container-->
+    <div class="container">
+
+        <!--begin row-->
+        <div class="row text-center ">
+
+            <!--begin col-sm-12-->
+            <div class="col-md-4">
+                <div class="media">
+                    <div class="media-left"><i class="glyphicon glyphicon-home"></i></div>
+                    <div class="media-body media-middle">
+                        Ouagadougou: Rue de l'armée , non loin de Onea citée AN3
+                        <br>
+                        Bobo Dioulasso : Rue de l'aeroport à 500 m de la Brakina.
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="media">
+                    <div class="media-left"><i class="glyphicon glyphicon-filter"></i></div>
+                    <div class="media-body media-middle">
+                        01 BP 2715 BOBO DIOULASSO 02 <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="media">
+                    <div class="media-left"><i class="glyphicon glyphicon-phone"></i></div>
+                    <div class="media-body media-middle">
+                        TEL: +226 63121212 <br>
+                    </div>
+                </div>
+            </div>
+            <!--end col-sm-12-->
+
+        </div>
+        <!--end row-->
+
+    </div>
+    <!--end container-->
+
+</div>
 
 <!--begin footer -->
 <div class="footer">
