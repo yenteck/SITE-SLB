@@ -56,11 +56,14 @@
 
     <!--begin nav -->
     <nav class="navbar navbar-default navbar-fixed-top">
-
+        <div class="alert-warning alert text-center">
+            Bienvenue cher visiteur .Le site web est en developpement !Merci de revenir prochainement. Mail: slbburkina@gmail.com
+        </div>
         <!--begin container -->
         <div class="container">
 
             <!--begin navbar -->
+
             <div class="navbar-header">
                 <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
                     <span class="sr-only">Toggle navigation</span>
