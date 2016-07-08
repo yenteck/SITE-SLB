@@ -1767,7 +1767,7 @@ p.autor span {
 /* ----- 3. Testimonials ----- */
 .section-testimonials{
 	position:relative;
-	margin-top:-120px;
+	margin-top:0px;
 	background-color:#34b1c4;
 	padding:60px 0;
 }

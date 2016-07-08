@@ -83,7 +83,7 @@
                     <li><a href="#home_wrapper">Accueil</a></li>
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Nos Produits</a></li>
-                    <li><a href="#partenaires"> Clients / Partenaires</a></li>
+
                     <li><a href="#contact">Contact</a></li>
 
                     <li><a href="#" class="purchase">Nous Contacter</a></li>
@@ -418,80 +418,300 @@
 <!--end services-->
 
 <!--begin features -->
-<section class="section-dark no-padding-bottom">
+<section class="section-grey small-padding-bottom story" id="features">
 
     <!--begin container-->
     <div class="container">
 
         <!--begin row-->
-        <div class="row margin-bottom-30">
+        <div class="row margin-bottom-50">
 
             <!--begin col-md-12-->
-            <div class="col-md-10 col-md-offset-1 text-center">
-                <h2 class="section-title grey">Powerful Features</h2>
+            <div class="col-md-12 text-center">
+                <h2 class="section-title">Nos Atouts </h2>
 
-                <div class="separator_wrapper_white">
-                    <i class="icon icon-star-two grey"></i>
+                <div class="separator_wrapper">
+                    <i class="icon icon-star-two red"></i>
                 </div>
 
-                <p class="section-subtitle grey">There are many variations of passages of Lorem Ipsum available, but the majority<br>have suffered alteration, by injected humour, or new randomised words.</p>
+                <p class="section-subtitle">Beaucoup de nos atouts nous permettent<br> d'avoir non seulement la confiance de nos clients, mais aussi  leur satisfaire.</p>
             </div>
             <!--end col-md-12-->
 
         </div>
         <!--end row-->
 
-        <!--begin section_features -->
-        <div class="section_features">
+        <!--begin row-->
+        <div class="row">
 
-            <!--begin layerslider2 -->
-            <div id="layerslider2" style="margin:0 auto; width: 1140px; height: 657px;">
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
 
-                <!--begin slide -->
-                <div class="ls-slide" data-ls="slidedelay: 4000; transition2d: 2,7,9;">
+                <!--begin story-block-->
+                <div class="story-block story-left">
 
-                    <!-- image layer -->
-                    <img src="images/graphic.png" class="ls-l" data-ls="parallaxlevel: 5;" alt="Image layer">
+                    <!--begin story-text-->
+                    <div class="story-text">
 
-                    <!-- text layers -->
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 11%; left: 10%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">E-mail Marketing</p>
+                        <h4>Collaboration avec les producteurs</h4>
 
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 14%; left: 21%;white-space: nowrap;" src="images/arrow2.png" alt="Arrow">
+                        <p>
+                            Nous sommes en etroite collaboration avec les producteurs des differents produits , ce qui nous donne un accés rapide à l'acquisition des produits.
+                        </p>
 
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 67%; left: 20%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">Marketing Campaign / Analysis</p>
+                    </div>
+                    <!--end story-text-->
 
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 65%; left: 36%;white-space: nowrap;" src="images/arrow3.png" alt="Arrow">
+                    <!--begin story-image-->
+                    <div class="story-image">
 
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 4%; left: 62%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">New Media Center</p>
+                        <img src="images/icons/icon2.png" alt="">
 
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 7%; left: 51%;white-space: nowrap;" src="images/arrow1.png" alt="Arrow">
+                    </div>
+                    <!--end story-image-->
 
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 16%; left: 78%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">Web Design & Development</p>
+                    <span class="story-arrow"></span>
 
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 19%; left: 64%;white-space: nowrap;" src="images/arrow1.png" alt="Arrow">
-
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 29%; left: 90%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">SEO Infographics</p>
-
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 32%; left: 79%;white-space: nowrap;" src="images/arrow1.png" alt="Arrow">
-
-                    <p class="ls-l" data-ls="parallaxlevel: -1;" style="top: 69%; left: 91%; color:#fff; font-size:18px; font-weight:300; font-style: italic;">Logo Design</p>
-
-                    <img class="ls-l" data-ls="parallaxlevel: -1;" style="top: 67%; left: 82%;white-space: nowrap;" src="images/arrow4.png" alt="Arrow">
+                    <span class="h-line"></span>
 
                 </div>
-                <!--end slide -->
+                <!--end story-block-->
 
             </div>
-            <!--end layerslider2 -->
+            <!--end col-md-6 col-sm-12-->
+
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
+
+                <!--begin story-block-->
+                <div class="story-block story-right">
+
+                    <!--begin story-text-->
+                    <div class="story-text">
+
+                        <h4>Mise sur le temps</h4>
+
+                        <p>
+                            Gràce à nos moyens de transports et notre politique de fidelisation de clients <br>
+                            Nous mettons l'accent sur le temps de livraison des produits
+                        </p>
+
+                    </div>
+                    <!--end story-text-->
+
+                    <!--begin story-image-->
+                    <div class="story-image">
+
+                        <img src="images/icons/icon11.png" alt="">
+
+                    </div>
+                    <!--end story-image-->
+
+                    <span class="story-arrow"></span>
+
+                    <span class="h-line"></span>
+
+                </div>
+                <!--end story-block-->
+
+            </div>
+            <!--end col-md-6 col-sm-12-->
 
         </div>
-        <!--end section_features -->
+        <!--end row-->
+
+        <!--begin row-->
+        <div class="row">
+
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
+
+                <!--begin story-block-->
+                <div class="story-block story-left">
+
+                    <!--begin story-text-->
+                    <div class="story-text">
+
+                        <h4>Documentation Included</h4>
+
+                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+
+                    </div>
+                    <!--end story-text-->
+
+                    <!--begin story-image-->
+                    <div class="story-image">
+
+                        <img src="images/icons/icon8.png" alt="">
+
+                    </div>
+                    <!--end story-image-->
+
+                    <span class="story-arrow"></span>
+
+                    <span class="h-line"></span>
+
+                </div>
+                <!--end story-block-->
+
+            </div>
+            <!--end col-md-6 col-sm-12-->
+
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
+
+                <!--begin story-block-->
+                <div class="story-block story-right">
+
+                    <!--begin story-text-->
+                    <div class="story-text">
+
+                        <h4>Working Newsletter</h4>
+
+                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+
+                    </div>
+                    <!--end story-text-->
+
+                    <!--begin story-image-->
+                    <div class="story-image">
+
+                        <img src="images/icons/icon4.png" alt="">
+
+                    </div>
+                    <!--end story-image-->
+
+                    <span class="story-arrow"></span>
+
+                    <span class="h-line"></span>
+
+                </div>
+                <!--end story-block-->
+
+            </div>
+            <!--end col-md-6 col-sm-12-->
+
+        </div>
+        <!--end row-->
+
+        <!--begin row-->
+        <div class="row">
+
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
+
+                <!--begin story-block-->
+                <div class="story-block story-left last">
+
+                    <!--begin story-text-->
+                    <div class="story-text">
+
+                        <h4>Well Explained Code</h4>
+
+                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+
+                    </div>
+                    <!--end story-text-->
+
+                    <!--begin story-image-->
+                    <div class="story-image">
+
+                        <img src="images/icons/icon9.png" alt="">
+
+                    </div>
+                    <!--end story-image-->
+
+                    <span class="story-arrow"></span>
+
+                    <span class="h-line"></span>
+
+                </div>
+                <!--end story-block-->
+
+            </div>
+            <!--end col-md-6 col-sm-12-->
+
+            <!--begin col-md-6 col-sm-12-->
+            <div class="col-md-6 col-sm-12">
+
+                <!--begin story-block-->
+                <div class="story-block story-right last">
+
+                    <!--begin story-text-->
+                    <div class="story-text">
+
+                        <h4>24/7 Support</h4>
+
+                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+
+                    </div>
+                    <!--end story-text-->
+
+                    <!--begin story-image-->
+                    <div class="story-image">
+
+                        <img src="images/icons/icon0.png" alt="">
+
+                    </div>
+                    <!--end story-image-->
+
+                    <span class="story-arrow"></span>
+
+                    <span class="h-line"></span>
+
+                </div>
+                <!--end story-block-->
+
+            </div>
+            <!--end col-md-6 col-sm-12-->
+
+        </div>
+        <!--end row-->
 
     </div>
     <!--end container-->
 
 </section>
 <!--end features -->
+<div class="section-testimonials">
+
+    <!--begin container-->
+    <div class="container testimonials-wrapper">
+
+        <!--begin row-->
+        <div class="row">
+
+            <!--begin col-md-5 -->
+            <div class="col-md-5">
+
+                <!--begin testimonials-info-->
+                <div class="testimonials-info">
+
+                    <img src="http://placehold.it/800x650" class="author-pic" alt="John Doe">
+
+                    <p class="author-name">Issa Kafando<br><span>Directeur de SLB</span></p>
+
+                </div>
+                <!--end testimonials-info-->
+
+            </div>
+            <!--end col-md-5 -->
+
+            <!--begin col-md-7 -->
+            <div class="col-md-7">
+
+                <p class="testimonials-text">"Your time is limited, so do not waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking."</p>
+
+            </div>
+            <!--end col-md-7 -->
+
+        </div>
+        <!--end row-->
+
+    </div>
+    <!--end container-->
+
+</div>
 
 <section id="partenaires">
 
