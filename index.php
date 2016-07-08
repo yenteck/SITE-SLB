@@ -57,7 +57,7 @@
 
     <!--begin nav -->
     <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="alert-warning alert text-center  ">
+        <div class="alert-warning alert text-center">
             Bienvenue cher visiteur .Le site web est en developpement !Merci de revenir prochainement. Mail: slbburkina@gmail.com
         </div>
         <!--begin container -->
@@ -82,7 +82,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#home_wrapper">Accueil</a></li>
                     <li><a href="#services">Services</a></li>
-                    <li><a href="#portfolio">Nos Produits</a></li>
+                    <li><a href="#produits">Nos Produits</a></li>
 
                     <li><a href="#contact">Contact</a></li>
 
@@ -442,7 +442,224 @@
 
 </section>
 <!--end services-->
+<section class="team-section" id="produits">
 
+    <!--begin container-->
+    <div class="container">
+
+        <!--begin row-->
+        <div class="row margin-bottom-50">
+
+            <!--begin col-md-12-->
+            <div class="col-md-10 col-md-offset-1 text-center">
+                <h2 class="section-title white">Nos Produits </h2>
+
+                <div class="separator_wrapper_white">
+                    <i class="icon icon-star-two grey"></i>
+                </div>
+            </div>
+            <!--end col-md-12-->
+
+        </div>
+        <!--end row-->
+
+        <!--begin row-->
+        <div class="row">
+
+            <div id="myCarousel" class="carousel carousel1 slide margin-bottom-40" data-interval="false">
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+
+                    <div class="item active nosproduits" id="">
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                               <h3> Cereales </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Mil </h3>
+                                <h3> * Maïs</h3>
+                                <h3> * Sorgho</h3>
+                                <h3> * Riz</h3>
+                                <h3> * Haricot</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                                <h3> Produits de Cru </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Noix de Cajou </h3>
+                                <h3> * Gingimbre</h3>
+                                <h3> * Sesame</h3>
+                                <h3> * Arachide</h3>
+                                <h3> * ....</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                                <h3> Produits Manufacturés </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Mil </h3>
+                                <h3> * Maïs</h3>
+                                <h3> * Sorgho</h3>
+                                <h3> * Riz</h3>
+                                <h3> * Haricot</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+
+                    </div>
+
+                    <div class="item  nosproduits" >
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                                <h3> Cereales </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Mil </h3>
+                                <h3> * Maïs</h3>
+                                <h3> * Sorgho</h3>
+                                <h3> * Riz</h3>
+                                <h3> * Haricot</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                                <h3> Cereales </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Mil </h3>
+                                <h3> * Maïs</h3>
+                                <h3> * Sorgho</h3>
+                                <h3> * Riz</h3>
+                                <h3> * Haricot</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+                        <!--begin team-item -->
+                        <div class="col-md-4 team-item">
+
+                            <!--begin team-popup -->
+                            <div class="team-popup">
+
+                                <h3> Cereales </h3>
+
+
+                            </div>
+                            <!--end team-popup -->
+
+                            <!--begin team_box -->
+                            <div class="team-box">
+
+                                <h3> * Mil </h3>
+                                <h3> * Maïs</h3>
+                                <h3> * Sorgho</h3>
+                                <h3> * Riz</h3>
+                                <h3> * Haricot</h3>
+
+                            </div>
+                            <!--end team_box -->
+
+                        </div>
+                        <!--end team-item -->
+
+
+                    </div>
+
+                </div>
+
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                </ol>
+
+            </div>
+
+        </div>
+        <!--end row-->
+
+    </div>
+    <!--end container-->
+
+</section>
 <!--begin features -->
 <section class="section-grey small-padding-bottom story" id="features">
 
@@ -1085,10 +1302,10 @@ begin contact -->
         //if (typeof google !== "undefined"){
         if (window.google && google.maps) {
             // Map script is already loaded
-            alert("Map script is already loaded. Initialising");
+            console.log("Map script is already loaded. Initialising");
             initializeMap();
         } else {
-            alert("Lazy loading Google map...");
+            console.log("Lazy loading Google map...");
             lazyLoadGoogleMap();
         }
 
