@@ -57,7 +57,7 @@
 
     <!--begin nav -->
     <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="alert-warning alert text-center ">
+        <div class="alert-warning alert text-center hidden ">
             Bienvenue cher visiteur .Le site web est en developpement !Merci de revenir prochainement. Mail: slbburkina@gmail.com
         </div>
         <!--begin container -->
@@ -465,7 +465,7 @@
                     <!--begin story-image-->
                     <div class="story-image">
 
-                        <img src="images/icons/icon2.png" alt="">
+                        <img src="images/icons/frienship.png" alt="">
 
                     </div>
                     <!--end story-image-->
@@ -502,7 +502,7 @@
                     <!--begin story-image-->
                     <div class="story-image">
 
-                        <img src="images/icons/icon11.png" alt="">
+                        <img src="images/icons/hourglass.png" alt="">
 
                     </div>
                     <!--end story-image-->
@@ -532,9 +532,9 @@
                     <!--begin story-text-->
                     <div class="story-text">
 
-                        <h4>Documentation Included</h4>
+                        <h4>Faible côut</h4>
 
-                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+                        <p>Nos produits sont à des prix abordables, Moins cher que l'on ne peut en trouver ailleurs.</p>
 
                     </div>
                     <!--end story-text-->
@@ -542,7 +542,7 @@
                     <!--begin story-image-->
                     <div class="story-image">
 
-                        <img src="images/icons/icon8.png" alt="">
+                        <img src="images/icons/price.png" alt="">
 
                     </div>
                     <!--end story-image-->
@@ -566,9 +566,12 @@
                     <!--begin story-text-->
                     <div class="story-text">
 
-                        <h4>Working Newsletter</h4>
+                        <h4>Haute Qualité</h4>
 
-                        <p>Lorem ipsum dolor sita amet, consectetur elitum suspendise rutrum eleifend arcu situm net amet magni sequi tempor.</p>
+                        <p>
+                            Des produits de tres haute qualité ,<br>
+                            Nombre de problemes reduits , produits naturels.
+                        </p>
 
                     </div>
                     <!--end story-text-->
@@ -576,7 +579,7 @@
                     <!--begin story-image-->
                     <div class="story-image">
 
-                        <img src="images/icons/icon4.png" alt="">
+                        <img src="images/icons/guarantee.png" alt="">
 
                     </div>
                     <!--end story-image-->
@@ -687,7 +690,7 @@
                 <!--begin testimonials-info-->
                 <div class="testimonials-info">
 
-                    <img src="http://placehold.it/800x650" class="author-pic" alt="John Doe">
+                    <img src="img/issa_kafando.jpg" class="author-pic" alt="John Doe">
 
                     <p class="author-name">Issa Kafando<br><span>Directeur de SLB</span></p>
 
@@ -903,7 +906,9 @@ begin contact -->
             <!--begin col-sm-12-->
             <div class="col-md-4">
                 <div class="media">
-                    <div class="media-left"><i class="glyphicon glyphicon-home"></i></div>
+                    <div class="media-left">
+                        <img src="images/icons/home.png" alt="">
+                    </div>
                     <div class="media-body media-middle">
                         Ouagadougou: Rue de l'armée , non loin de Onea citée AN3
                         <br>
@@ -914,7 +919,9 @@ begin contact -->
 
             <div class="col-md-4">
                 <div class="media">
-                    <div class="media-left"><i class="glyphicon glyphicon-filter"></i></div>
+                    <div class="media-left">
+                        <img src="images/icons/maps.png" alt="">
+                    </div>
                     <div class="media-body media-middle">
                         01 BP 2715 BOBO DIOULASSO 02 <br>
                     </div>
@@ -923,7 +930,9 @@ begin contact -->
 
             <div class="col-md-4">
                 <div class="media">
-                    <div class="media-left"><i class="glyphicon glyphicon-phone"></i></div>
+                    <div class="media-left">
+                        <img src="images/icons/phone.png" alt="">
+                    </div>
                     <div class="media-body media-middle">
                         TEL: +226 63121212 <br>
                     </div>
