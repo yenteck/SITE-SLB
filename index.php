@@ -142,6 +142,32 @@
 
                     <!-- end slide -->
 
+                    <!-- begin slide -->
+                    <div class="ls-slide" data-ls="slidedelay:8000;transition2d:21,105;timeshift:-1000;">
+
+
+                        <img class="ls-l" style="width:100%;height:100%;white-space: nowrap;" data-ls="durationin:1500; delayin:50; scalexin:0.8; scaleyin:0.8; scalexout:0.8; scaleyout:0.8;" src="img/manguiers.png" alt="">
+
+
+                        <img class="ls-l" style="top:55px;left:75px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;delayin:100;easingin:linear;scalexin:0;scaleyin:0;offsetxout:0;durationout:2000;easingout:linear;scalexout:0;scaleyout:0;" src="images/ls6a.png" alt="">
+
+                        <h1 class="ls-l" style="top:120px;left:700px;font-weight: 700;font-size:36px;line-height:42px;color:#ffffff;white-space: nowrap;" data-ls="offsetxin:0;offsetyin: top;delayin:1000;offsetxout:-50;durationout:3000;">Des produits bio <br>uniques</h1>
+
+                        <p class="ls-l"  style="top:225px;left:700px;font-weight: 400;font-size:19px; line-height:32px;color:#ffffff;white-space: nowrap;" data-ls="offsetxin:50;delayin:2000;skewxin:-60;offsetxout:-50;durationout:1000;skewxout:-60;">
+                            Chez nous à SLB nous misons beaucoup sur la qualité des produits<br>
+                            ce qui nous a permis d'avoir une tres bonne reputation <br>
+                            parmis nos conccurents .
+                        </p>
+
+                        <a href="#" class="ls-l" style="top:350px; left:700px;" data-ls="offsetxin:0;durationin:4000;delayin:5500;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% top 0;offsetxout:0;durationout:1000;rotatexout:90;transformoriginout:50% bottom 0;">
+                                <span style="background-color: #fff; border: 1px solid #fff; color:#228798; display:inline-block;font-weight:700; font-size:14px; line-height:15px; vertical-align:top; padding:16px 30px;margin:0 0 20px 0;-webkit-border-radius: 5px 5px;-moz-border-radius: 5px 5px;border-radius: 5px 5px;white-space: nowrap;">
+                                   VOIR NOS PRODUITS
+                                </span>
+                        </a>
+
+                    </div>
+
+                    <!-- end slide -->
                     <!--begin ls-slide -->
                     <div class="ls-slide" data-ls="slidedelay:8000;transition2d:21,105;timeshift:-1000;">
 
@@ -895,10 +921,31 @@ begin contact -->
 
 </section>
 <!--end contact-->
+
+<!-- maps -->
+<div class="section-grey" style="padding: 0;">
+
+    <div id="map_canvas">
+
+    </div>
+
+    <style>
+
+        #map_canvas {
+            height: 400px;
+        }
+    </style>
+
+
+</div>
+<!-- end maps -->
 <div class="section-grey sponsors-padding">
+
+
 
     <!--begin container-->
     <div class="container">
+
 
         <!--begin row-->
         <div class="row text-center ">
@@ -1032,6 +1079,51 @@ begin contact -->
 <!-- begin custom script-->
 <script src="js/custom.js"></script>
 <script src="js/plugins.js"></script>
+<script>
+    $(function () {
+
+        //if (typeof google !== "undefined"){
+        if (window.google && google.maps) {
+            // Map script is already loaded
+            alert("Map script is already loaded. Initialising");
+            initializeMap();
+        } else {
+            alert("Lazy loading Google map...");
+            lazyLoadGoogleMap();
+        }
+
+    });
+
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(12.374064, -1.531476);
+        var mapOptions = {
+            center: myLatlng,
+            zoom: 14,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: "Hello From Knockananna!!!"
+        });
+    }
+
+    function lazyLoadGoogleMap() {
+        $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyACHpSt5dOkz_dZB40EL95xLMXHvpTCJuk&sensor=true&callback=initializeMap")
+            .done(function (script, textStatus) {
+                //alert("Google map script loaded successfully");
+            })
+            .fail(function (jqxhr, settings, ex) {
+                //alert("Could not load Google Map script: " + jqxhr);
+            });
+    }
+
+    function initializeMap() {
+        initialize(
+        );
+    }
+</script>
 
 
 </body></html>
