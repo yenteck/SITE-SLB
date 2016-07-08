@@ -57,7 +57,7 @@
 
     <!--begin nav -->
     <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="alert-warning alert text-center hidden ">
+        <div class="alert-warning alert text-center  ">
             Bienvenue cher visiteur .Le site web est en developpement !Merci de revenir prochainement. Mail: slbburkina@gmail.com
         </div>
         <!--begin container -->
