@@ -2,172 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658568a5-ed01-4188-aaf7-d90a73965682" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/views/layout.html.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/mystyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/mystyle.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/mystyle.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icons-font.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icons-font.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icons-font.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/icons-font.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arrow1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arrow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arrow3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arrow4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/graphic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/frienship.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/guarantee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/hourglass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon3a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/icon9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/maps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/icons/price.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls10b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls11b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls1a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls1b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls2a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls2b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls3a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls3b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls4a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls4b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls5a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls5b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls6a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls6b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls7b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls8b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ls9b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/affiche.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anacarde2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ginger.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gingimbre.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/image4217.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/issa_kafando.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_t.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/manguiers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/title_cereales.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/title_cru.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/title_manufacture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/SmoothScroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/icon-font-ie7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.scrollTo-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/wow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/css/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/css/layerslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/js/greensock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/js/layerslider.kreaturamedia.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/js/layerslider.transitions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark3d/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark3d/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark3d/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark3d/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlessdark3d/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight3d/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight3d/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight3d/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight3d/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/borderlesslight3d/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/carousel/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/carousel/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/carousel/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/carousel/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/darkskin/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/darkskin/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/darkskin/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/darkskin/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/defaultskin/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/defaultskin/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/defaultskin/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/defaultskin/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidth/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidth/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidth/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidth/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidthdark/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidthdark/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidthdark/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/fullwidthdark/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/glass/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/glass/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/glass/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/glass/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/glass/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/lightskin/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/lightskin/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/lightskin/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/lightskin/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/minimal/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/minimal/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/minimal/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/minimal/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/noskin/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/noskin/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/noskin/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/noskin/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/v5/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/v5/nothumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/v5/skin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layerslider/skins/v5/skin.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SITE_SLB.iml" afterPath="$PROJECT_DIR$/.idea/SITE_SLB.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SITE_SLB.iws" />
@@ -233,14 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43686005">
+            <state vertical-scroll-proportion="-8.258064">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="e#213#248#1#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.54272515">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -284,10 +129,10 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/mystyle.scss" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/web/bundles/slb/js/custom.js" />
         <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -358,47 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SITE_SLB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SITE_SLB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SlbBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SITE_SLB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SITE_SLB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SlbBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -602,60 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="728" column="4" selection-start-line="728" selection-start-column="4" selection-end-line="1072" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1481" column="13" selection-start-line="1233" selection-start-column="4" selection-end-line="1481" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -664,40 +415,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.451613">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contributors.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05631399">
-          <caret line="728" column="4" selection-start-line="728" selection-start-column="4" selection-end-line="1072" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.37182447">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,11 +482,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43686005">
+        <state vertical-scroll-proportion="-8.258064">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#213#248#1#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54272515">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

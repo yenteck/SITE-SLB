@@ -1,0 +1,54 @@
+// base
+
+//layouts
+
+.adress{
+  color:#fff;
+  color: #aaa;
+  border: 1px solid #757575;
+  background-color: transparent;
+  border-radius: 5px;
+
+  .media{
+    .media-left{
+      padding-right: 35px;
+
+      i{
+        width: 80px;
+        height: 80px;
+        line-height: 75px;
+        background: #267ae9;
+        text-align: center;
+        font-size: 24px;
+        color: #fff;
+        border-radius: 100%;
+      }
+    }
+
+    .media-body{
+
+      padding-top: 5px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
+      font-size: 18px;
+      color: #fff;
+      letter-spacing: 1px;
+      line-height: 30px;
+    }
+  }
+}
+
+
+.nosproduits{
+
+  .team-item{
+
+    .team-popup{
+      color: #fff;
+      border-bottom:solid 1px #aaa;
+      text-align: center;
+      background: #fff;
+
+    }
+  }
+}
