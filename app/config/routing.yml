@@ -1,0 +1,5 @@
+slb:
+    resource: "@SlbBundle/Resources/config/routing.yml"
+    prefix:   /
+
+

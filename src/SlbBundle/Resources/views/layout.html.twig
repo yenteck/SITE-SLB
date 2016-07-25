@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SOCIETE LIGIDI BAORE | SLB</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+    <title>SOCIÉTE LIGIDI BAORE | SLB</title>
+
+    <!-- Loading Bootstrap -->
+    <link href="{{ asset('bundles/slb/css/bootstrap.css') }}" rel="stylesheet">
+
+    <!-- Loading Template CSS -->
+    <link href="{{ asset("bundles/slb/css/style.css") }}" rel="stylesheet">
+    <link href="{{ asset('bundles/slb/css/mystyle.css') }}" rel="stylesheet">
+    <link href="{{ asset('bundles/slb/css/animate.css') }}" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet">
+
+    <!-- Loading Layer Slider -->
+    <link href="{{ asset('bundles/slb/layerslider/css/layerslider.css') }}" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="{{ asset('bundles/slb/css/fonts.css') }}" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,100' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+
+    <!-- Font Favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+    <script src="{{ asset('bundles/slb/js/html5shiv.js') }}"></script>
+    <script src="{{ asset('bundles/slb/js/respond.min.js') }}"></script>
+    <![endif]-->
+
+    <!--headerIncludes-->
+</head>
+<body>
+
+    {% block body %}
+    {% endblock %}
+
+    {% block javascripts %}
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+        <script src="{{ asset('bundles/slb/js/jquery.nav.js') }}"></script>
+        <script src="{{ asset('bundles/slb/js/jquery.scrollTo-min.js') }}"></script>
+        <script src="{{ asset('bundles/slb/js/SmoothScroll.js') }}"></script>
+        <script src="{{ asset('bundles/slb/js/wow.js') }}"></script>
+
+        <!-- begin layerslider script-->
+        <script src="{{ asset('bundles/slb/layerslider/js/greensock.js') }}"></script>
+        <script src="{{ asset('bundles/slb/layerslider/js/layerslider.transitions.js') }}"></script>
+        <script src="{{ asset('bundles/slb/layerslider/js/layerslider.kreaturamedia.jquery.js') }}"></script>
+
+        <!-- begin custom script-->
+        <script src="{{ asset('bundles/slb/js/custom.js') }}"></script>
+        <script src="{{ asset('bundles/slb/js/plugins.js') }}"></script>
+        <script>
+            $(function () {
+
+                //if (typeof google !== "undefined"){
+                if (window.google && google.maps) {
+                    // Map script is already loaded
+                    console.log("Map script is already loaded. Initialising");
+                    initializeMap();
+                } else {
+                    console.log("Lazy loading Google map...");
+                    lazyLoadGoogleMap();
+                }
+
+            });
+
+            function initialize() {
+                var myLatlng = new google.maps.LatLng(12.374064, -1.531476);
+                var mapOptions = {
+                    center: myLatlng,
+                    zoom: 14,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                };
+                var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+                var marker = new google.maps.Marker({
+                    position: myLatlng,
+                    map: map,
+                    title: "Hello From Knockananna!!!"
+                });
+            }
+
+            function lazyLoadGoogleMap() {
+                $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyACHpSt5dOkz_dZB40EL95xLMXHvpTCJuk&sensor=true&callback=initializeMap")
+                        .done(function (script, textStatus) {
+                            //alert("Google map script loaded successfully");
+                        })
+                        .fail(function (jqxhr, settings, ex) {
+                            //alert("Could not load Google Map script: " + jqxhr);
+                        });
+            }
+
+            function initializeMap() {
+                initialize(
+                );
+            }
+        </script>
+    {% endblock %}
+</body>
+</html>

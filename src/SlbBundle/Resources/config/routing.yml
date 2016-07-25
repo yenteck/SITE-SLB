@@ -1,0 +1,3 @@
+slb_homepage:
+    path:     /
+    defaults: { _controller: SlbBundle:Default:index }
