@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658568a5-ed01-4188-aaf7-d90a73965682" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
     </list>
     <ignored path="SITE_SLB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,37 +31,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.225806">
-              <caret line="1211" column="33" selection-start-line="1211" selection-start-column="33" selection-end-line="1211" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="978" column="84" selection-start-line="978" selection-start-column="84" selection-end-line="978" selection-end-column="84" />
               <folding>
                 <element signature="e#12#39#0#Twig" expanded="true" />
-                <element signature="e#2188#20480#0#HTML" expanded="false" />
-                <element signature="e#2534#20267#0#HTML" expanded="false" />
-                <element signature="e#20541#25907#0#HTML" expanded="false" />
-                <element signature="e#20759#21675#0#HTML" expanded="false" />
-                <element signature="e#25936#33159#0#HTML" expanded="false" />
-                <element signature="e#26600#33071#0#HTML" expanded="false" />
-                <element signature="e#26798#32736#0#HTML" expanded="false" />
-                <element signature="e#31815#32625#0#HTML" expanded="false" />
-                <element signature="e#33191#41348#0#HTML" expanded="false" />
-                <element signature="e#33369#33957#0#HTML" expanded="false" />
-                <element signature="e#34027#36539#0#HTML" expanded="false" />
-                <element signature="e#36609#38915#0#HTML" expanded="false" />
-                <element signature="e#36692#37664#0#HTML" expanded="false" />
-                <element signature="e#36791#37597#0#HTML" expanded="false" />
-                <element signature="e#37776#38849#0#HTML" expanded="false" />
-                <element signature="e#38985#41260#0#HTML" expanded="false" />
-                <element signature="e#41378#42553#0#HTML" expanded="false" />
-                <element signature="e#42559#46049#0#HTML" expanded="false" />
-                <element signature="e#43533#43703#0#HTML" expanded="false" />
-                <element signature="e#43819#43989#0#HTML" expanded="false" />
-                <element signature="e#44105#44275#0#HTML" expanded="false" />
-                <element signature="e#44391#44539#0#HTML" expanded="false" />
-                <element signature="e#46057#48613#0#HTML" expanded="false" />
-                <element signature="e#48660#48872#0#HTML" expanded="false" />
+                <element signature="e#441#2089#0#HTML" expanded="false" />
+                <element signature="e#8357#8406#0#HTML" expanded="true" />
+                <element signature="e#21108#26474#0#HTML" expanded="false" />
+                <element signature="e#21326#22242#0#HTML" expanded="false" />
+                <element signature="e#26503#33726#0#HTML" expanded="false" />
+                <element signature="e#27167#33638#0#HTML" expanded="false" />
+                <element signature="e#27365#33303#0#HTML" expanded="false" />
+                <element signature="e#32382#33192#0#HTML" expanded="false" />
+                <element signature="e#33758#41915#0#HTML" expanded="false" />
+                <element signature="e#33936#34524#0#HTML" expanded="false" />
+                <element signature="e#34594#37106#0#HTML" expanded="false" />
+                <element signature="e#37176#39482#0#HTML" expanded="false" />
+                <element signature="e#37259#38231#0#HTML" expanded="false" />
+                <element signature="e#37358#38164#0#HTML" expanded="false" />
+                <element signature="e#38343#39416#0#HTML" expanded="false" />
+                <element signature="e#39552#41827#0#HTML" expanded="false" />
+                <element signature="e#41945#43120#0#HTML" expanded="false" />
+                <element signature="e#44100#44270#0#HTML" expanded="false" />
+                <element signature="e#44386#44556#0#HTML" expanded="false" />
+                <element signature="e#44672#44842#0#HTML" expanded="false" />
+                <element signature="e#46651#49207#0#HTML" expanded="false" />
+                <element signature="e#49254#49466#0#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -76,16 +73,6 @@
               <folding>
                 <element signature="e#213#248#1#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54272515">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -131,8 +118,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/web/bundles/slb/js/custom.js" />
-        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
       </list>
     </option>
   </component>
@@ -371,30 +358,28 @@
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding>
             <element signature="e#12#39#0#Twig" expanded="true" />
-            <element signature="e#2188#20480#0#HTML" expanded="false" />
-            <element signature="e#2534#20267#0#HTML" expanded="false" />
-            <element signature="e#20541#25907#0#HTML" expanded="false" />
-            <element signature="e#20759#21675#0#HTML" expanded="false" />
-            <element signature="e#25936#33159#0#HTML" expanded="false" />
-            <element signature="e#26600#33071#0#HTML" expanded="false" />
-            <element signature="e#26798#32736#0#HTML" expanded="false" />
-            <element signature="e#31815#32625#0#HTML" expanded="false" />
-            <element signature="e#33191#41348#0#HTML" expanded="false" />
-            <element signature="e#33369#33957#0#HTML" expanded="false" />
-            <element signature="e#34027#36539#0#HTML" expanded="false" />
-            <element signature="e#36609#38915#0#HTML" expanded="false" />
-            <element signature="e#36692#37664#0#HTML" expanded="false" />
-            <element signature="e#36791#37597#0#HTML" expanded="false" />
-            <element signature="e#37776#38849#0#HTML" expanded="false" />
-            <element signature="e#38985#41260#0#HTML" expanded="false" />
-            <element signature="e#41378#42553#0#HTML" expanded="false" />
-            <element signature="e#42559#46049#0#HTML" expanded="false" />
-            <element signature="e#43533#43703#0#HTML" expanded="false" />
-            <element signature="e#43819#43989#0#HTML" expanded="false" />
-            <element signature="e#44105#44275#0#HTML" expanded="false" />
-            <element signature="e#44391#44539#0#HTML" expanded="false" />
-            <element signature="e#46057#48613#0#HTML" expanded="false" />
-            <element signature="e#48660#48872#0#HTML" expanded="false" />
+            <element signature="e#441#2089#0#HTML" expanded="false" />
+            <element signature="e#8357#8406#0#HTML" expanded="true" />
+            <element signature="e#21108#26474#0#HTML" expanded="false" />
+            <element signature="e#21326#22242#0#HTML" expanded="false" />
+            <element signature="e#26503#33726#0#HTML" expanded="false" />
+            <element signature="e#27167#33638#0#HTML" expanded="false" />
+            <element signature="e#27365#33303#0#HTML" expanded="false" />
+            <element signature="e#32382#33192#0#HTML" expanded="false" />
+            <element signature="e#33758#41915#0#HTML" expanded="false" />
+            <element signature="e#33936#34524#0#HTML" expanded="false" />
+            <element signature="e#34594#37106#0#HTML" expanded="false" />
+            <element signature="e#37176#39482#0#HTML" expanded="false" />
+            <element signature="e#37259#38231#0#HTML" expanded="false" />
+            <element signature="e#37358#38164#0#HTML" expanded="false" />
+            <element signature="e#38343#39416#0#HTML" expanded="false" />
+            <element signature="e#39552#41827#0#HTML" expanded="false" />
+            <element signature="e#41945#43120#0#HTML" expanded="false" />
+            <element signature="e#44100#44270#0#HTML" expanded="false" />
+            <element signature="e#44386#44556#0#HTML" expanded="false" />
+            <element signature="e#44672#44842#0#HTML" expanded="false" />
+            <element signature="e#46651#49207#0#HTML" expanded="false" />
+            <element signature="e#49254#49466#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -446,37 +431,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.225806">
-          <caret line="1211" column="33" selection-start-line="1211" selection-start-column="33" selection-end-line="1211" selection-end-column="33" />
-          <folding>
-            <element signature="e#12#39#0#Twig" expanded="true" />
-            <element signature="e#2188#20480#0#HTML" expanded="false" />
-            <element signature="e#2534#20267#0#HTML" expanded="false" />
-            <element signature="e#20541#25907#0#HTML" expanded="false" />
-            <element signature="e#20759#21675#0#HTML" expanded="false" />
-            <element signature="e#25936#33159#0#HTML" expanded="false" />
-            <element signature="e#26600#33071#0#HTML" expanded="false" />
-            <element signature="e#26798#32736#0#HTML" expanded="false" />
-            <element signature="e#31815#32625#0#HTML" expanded="false" />
-            <element signature="e#33191#41348#0#HTML" expanded="false" />
-            <element signature="e#33369#33957#0#HTML" expanded="false" />
-            <element signature="e#34027#36539#0#HTML" expanded="false" />
-            <element signature="e#36609#38915#0#HTML" expanded="false" />
-            <element signature="e#36692#37664#0#HTML" expanded="false" />
-            <element signature="e#36791#37597#0#HTML" expanded="false" />
-            <element signature="e#37776#38849#0#HTML" expanded="false" />
-            <element signature="e#38985#41260#0#HTML" expanded="false" />
-            <element signature="e#41378#42553#0#HTML" expanded="false" />
-            <element signature="e#42559#46049#0#HTML" expanded="false" />
-            <element signature="e#43533#43703#0#HTML" expanded="false" />
-            <element signature="e#43819#43989#0#HTML" expanded="false" />
-            <element signature="e#44105#44275#0#HTML" expanded="false" />
-            <element signature="e#44391#44539#0#HTML" expanded="false" />
-            <element signature="e#46057#48613#0#HTML" expanded="false" />
-            <element signature="e#48660#48872#0#HTML" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.54272515">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -490,11 +449,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54272515">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="978" column="84" selection-start-line="978" selection-start-column="84" selection-end-line="978" selection-end-column="84" />
+          <folding>
+            <element signature="e#12#39#0#Twig" expanded="true" />
+            <element signature="e#441#2089#0#HTML" expanded="false" />
+            <element signature="e#8357#8406#0#HTML" expanded="true" />
+            <element signature="e#21108#26474#0#HTML" expanded="false" />
+            <element signature="e#21326#22242#0#HTML" expanded="false" />
+            <element signature="e#26503#33726#0#HTML" expanded="false" />
+            <element signature="e#27167#33638#0#HTML" expanded="false" />
+            <element signature="e#27365#33303#0#HTML" expanded="false" />
+            <element signature="e#32382#33192#0#HTML" expanded="false" />
+            <element signature="e#33758#41915#0#HTML" expanded="false" />
+            <element signature="e#33936#34524#0#HTML" expanded="false" />
+            <element signature="e#34594#37106#0#HTML" expanded="false" />
+            <element signature="e#37176#39482#0#HTML" expanded="false" />
+            <element signature="e#37259#38231#0#HTML" expanded="false" />
+            <element signature="e#37358#38164#0#HTML" expanded="false" />
+            <element signature="e#38343#39416#0#HTML" expanded="false" />
+            <element signature="e#39552#41827#0#HTML" expanded="false" />
+            <element signature="e#41945#43120#0#HTML" expanded="false" />
+            <element signature="e#44100#44270#0#HTML" expanded="false" />
+            <element signature="e#44386#44556#0#HTML" expanded="false" />
+            <element signature="e#44672#44842#0#HTML" expanded="false" />
+            <element signature="e#46651#49207#0#HTML" expanded="false" />
+            <element signature="e#49254#49466#0#HTML" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
