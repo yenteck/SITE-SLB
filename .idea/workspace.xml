@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658568a5-ed01-4188-aaf7-d90a73965682" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SlbBundle/Controller/ProduitsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/default.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/mil.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlbBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlbBundle/Resources/public/css/style.css" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app.php" afterPath="$PROJECT_DIR$/web/app.php" />
     </list>
     <ignored path="SITE_SLB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,47 +40,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="978" column="84" selection-start-line="978" selection-start-column="84" selection-end-line="978" selection-end-column="84" />
+            <state vertical-scroll-proportion="-480.09677">
+              <caret line="451" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="1253" selection-end-column="26" />
               <folding>
-                <element signature="e#12#39#0#Twig" expanded="true" />
-                <element signature="e#441#2089#0#HTML" expanded="false" />
-                <element signature="e#8357#8406#0#HTML" expanded="true" />
-                <element signature="e#21108#26474#0#HTML" expanded="false" />
-                <element signature="e#21326#22242#0#HTML" expanded="false" />
-                <element signature="e#26503#33726#0#HTML" expanded="false" />
-                <element signature="e#27167#33638#0#HTML" expanded="false" />
-                <element signature="e#27365#33303#0#HTML" expanded="false" />
-                <element signature="e#32382#33192#0#HTML" expanded="false" />
-                <element signature="e#33758#41915#0#HTML" expanded="false" />
-                <element signature="e#33936#34524#0#HTML" expanded="false" />
-                <element signature="e#34594#37106#0#HTML" expanded="false" />
-                <element signature="e#37176#39482#0#HTML" expanded="false" />
-                <element signature="e#37259#38231#0#HTML" expanded="false" />
-                <element signature="e#37358#38164#0#HTML" expanded="false" />
-                <element signature="e#38343#39416#0#HTML" expanded="false" />
-                <element signature="e#39552#41827#0#HTML" expanded="false" />
-                <element signature="e#41945#43120#0#HTML" expanded="false" />
-                <element signature="e#44100#44270#0#HTML" expanded="false" />
-                <element signature="e#44386#44556#0#HTML" expanded="false" />
-                <element signature="e#44672#44842#0#HTML" expanded="false" />
-                <element signature="e#46651#49207#0#HTML" expanded="false" />
-                <element signature="e#49254#49466#0#HTML" expanded="false" />
+                <element signature="e#51408#53814#0#Twig" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/default.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.7419353">
+              <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+              <folding>
+                <element signature="e#4855#7261#0#Twig" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mystyle.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/public/css/mystyle.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.258064">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.5068259">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
-                <element signature="e#213#248#1#PHP" expanded="true" />
+                <element signature="e#40#97#0#PHP" expanded="true" />
+                <element signature="e#328#363#1#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +109,6 @@
         <option value="$PROJECT_DIR$/controller/Home/index.php" />
         <option value="$PROJECT_DIR$/model/Home/index.php" />
         <option value="$PROJECT_DIR$/controller/Produits/index.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/model/Produits/index.php" />
         <option value="$PROJECT_DIR$/controller/Produits/details.php" />
         <option value="$PROJECT_DIR$/views/Produits/details.php" />
@@ -119,7 +128,15 @@
         <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/web/bundles/slb/js/custom.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/web/app.php" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/public/css/style.css" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Controller/ProduitsController.php" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/mil.html.twig" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/default.html.twig" />
+        <option value="$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php" />
       </list>
     </option>
   </component>
@@ -190,7 +207,125 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlbBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlbBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlbBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Produits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlbBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SITE_SLB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlbBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,7 +419,7 @@
     <frame x="0" y="-6" width="1366" height="774" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2590909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26742426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44513136" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -355,31 +490,48 @@
     <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#51408#53814#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="978" column="84" selection-start-line="978" selection-start-column="84" selection-end-line="978" selection-end-column="84" />
+          <folding>
+            <element signature="e#51408#53814#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#97#0#PHP" expanded="true" />
+            <element signature="e#328#363#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding>
-            <element signature="e#12#39#0#Twig" expanded="true" />
-            <element signature="e#441#2089#0#HTML" expanded="false" />
-            <element signature="e#8357#8406#0#HTML" expanded="true" />
-            <element signature="e#21108#26474#0#HTML" expanded="false" />
-            <element signature="e#21326#22242#0#HTML" expanded="false" />
-            <element signature="e#26503#33726#0#HTML" expanded="false" />
-            <element signature="e#27167#33638#0#HTML" expanded="false" />
-            <element signature="e#27365#33303#0#HTML" expanded="false" />
-            <element signature="e#32382#33192#0#HTML" expanded="false" />
-            <element signature="e#33758#41915#0#HTML" expanded="false" />
-            <element signature="e#33936#34524#0#HTML" expanded="false" />
-            <element signature="e#34594#37106#0#HTML" expanded="false" />
-            <element signature="e#37176#39482#0#HTML" expanded="false" />
-            <element signature="e#37259#38231#0#HTML" expanded="false" />
-            <element signature="e#37358#38164#0#HTML" expanded="false" />
-            <element signature="e#38343#39416#0#HTML" expanded="false" />
-            <element signature="e#39552#41827#0#HTML" expanded="false" />
-            <element signature="e#41945#43120#0#HTML" expanded="false" />
-            <element signature="e#44100#44270#0#HTML" expanded="false" />
-            <element signature="e#44386#44556#0#HTML" expanded="false" />
-            <element signature="e#44672#44842#0#HTML" expanded="false" />
-            <element signature="e#46651#49207#0#HTML" expanded="false" />
-            <element signature="e#49254#49466#0#HTML" expanded="false" />
+            <element signature="e#51408#53814#0#Twig" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -411,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4440843">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.2576985">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,44 +589,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.258064">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state vertical-scroll-proportion="-0.23890784">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21160409">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.983871">
+          <caret line="867" column="10" selection-start-line="867" selection-start-column="1" selection-end-line="867" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/ProduitsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5631399">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/mil.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
           <folding>
-            <element signature="e#213#248#1#PHP" expanded="true" />
+            <element signature="e#12#48#0#Twig" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="978" column="84" selection-start-line="978" selection-start-column="84" selection-end-line="978" selection-end-column="84" />
+        <state vertical-scroll-proportion="-480.09677">
+          <caret line="451" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="1253" selection-end-column="26" />
           <folding>
-            <element signature="e#12#39#0#Twig" expanded="true" />
-            <element signature="e#441#2089#0#HTML" expanded="false" />
-            <element signature="e#8357#8406#0#HTML" expanded="true" />
-            <element signature="e#21108#26474#0#HTML" expanded="false" />
-            <element signature="e#21326#22242#0#HTML" expanded="false" />
-            <element signature="e#26503#33726#0#HTML" expanded="false" />
-            <element signature="e#27167#33638#0#HTML" expanded="false" />
-            <element signature="e#27365#33303#0#HTML" expanded="false" />
-            <element signature="e#32382#33192#0#HTML" expanded="false" />
-            <element signature="e#33758#41915#0#HTML" expanded="false" />
-            <element signature="e#33936#34524#0#HTML" expanded="false" />
-            <element signature="e#34594#37106#0#HTML" expanded="false" />
-            <element signature="e#37176#39482#0#HTML" expanded="false" />
-            <element signature="e#37259#38231#0#HTML" expanded="false" />
-            <element signature="e#37358#38164#0#HTML" expanded="false" />
-            <element signature="e#38343#39416#0#HTML" expanded="false" />
-            <element signature="e#39552#41827#0#HTML" expanded="false" />
-            <element signature="e#41945#43120#0#HTML" expanded="false" />
-            <element signature="e#44100#44270#0#HTML" expanded="false" />
-            <element signature="e#44386#44556#0#HTML" expanded="false" />
-            <element signature="e#44672#44842#0#HTML" expanded="false" />
-            <element signature="e#46651#49207#0#HTML" expanded="false" />
-            <element signature="e#49254#49466#0#HTML" expanded="false" />
+            <element signature="e#51408#53814#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/views/Produits/default.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7419353">
+          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+          <folding>
+            <element signature="e#4855#7261#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Resources/public/css/mystyle.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5883306">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SlbBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5068259">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#97#0#PHP" expanded="true" />
+            <element signature="e#328#363#1#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

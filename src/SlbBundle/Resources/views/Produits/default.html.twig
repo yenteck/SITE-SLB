@@ -1,0 +1,236 @@
+{% extends "SlbBundle::layout.html.twig" %}
+
+{% block body %}
+    <!--begin loader -->
+    <div id="loader">
+        <div class="sk-three-bounce">
+            <div class="sk-child sk-bounce1"></div>
+            <div class="sk-child sk-bounce2"></div>
+            <div class="sk-child sk-bounce3"></div>
+        </div>
+    </div>
+    <!--end loader -->
+
+    <!--begin header -->
+    <header class="header">
+
+        <!--begin nav -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="alert-warning alert text-center">
+                Bienvenue cher visiteur .Le site web est en developpement !Merci de revenir prochainement. Mail: slbburkina@gmail.com
+            </div>
+            <!--begin container -->
+            <div class="container">
+
+                <!--begin navbar -->
+
+                <div class="navbar-header">
+                    <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <a href="index.php" class="navbar-brand brand scrool">
+                        <span style="color:#3cae43">SLB BURKINA</span>
+                    </a>
+                </div>
+
+                <div id="navbar-collapse-02" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#home_wrapper">Accueil</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#produits">Nos Produits</a></li>
+
+                        <li><a href="#contact">Contact</a></li>
+
+                        <li><a href="#" class="purchase">Nous Contacter</a></li>
+                    </ul>
+                </div>
+                <!--end navbar -->
+
+            </div>
+            <!--end container -->
+
+        </nav>
+        <!--end nav -->
+
+    </header>
+    <!--end header -->
+
+    <!--begin home_wrapper -->
+
+    <!--end home_wrapper -->
+
+
+    <section class="team-section" id="produits">
+
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row margin-bottom-50">
+
+                <!--begin col-md-12-->
+                <div class="col-md-10 col-md-offset-1 text-center">
+                    <h2 class="section-title white">Nos Produits </h2>
+
+                    <div class="separator_wrapper_white">
+                        <i class="icon icon-star-two grey"></i>
+                    </div>
+                </div>
+                <!--end col-md-12-->
+
+            </div>
+            <!--end row-->
+
+            <!--begin row-->
+
+            <!--end row-->
+
+        </div>
+        <!--end container-->
+
+    </section>
+
+
+
+    <div class="section-grey sponsors-padding">
+
+
+
+        <!--begin container-->
+        <div class="container">
+
+
+            <!--begin row-->
+            <div class="row text-center ">
+
+                <!--begin col-sm-12-->
+                <div class="col-md-4">
+                    <div class="media">
+                        <div class="media-left">
+                            <img src="{{ asset('bundles/slb/images/icons/home.png') }}" alt="">
+                        </div>
+                        <div class="media-body media-middle">
+                            Ouagadougou: Rue de l'armée , non loin de Onea citée AN3
+                            <br>
+                            Bobo Dioulasso : Rue de l'aeroport à 500 m de la Brakina.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="media">
+                        <div class="media-left">
+                            <img src="{{ asset('bundles/slb/images/icons/maps.png') }}" alt="">
+                        </div>
+                        <div class="media-body media-middle">
+                            01 BP 2715 BOBO DIOULASSO 02 <br>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="media">
+                        <div class="media-left">
+                            <img src="{{ asset('bundles/slb/images/icons/phone.png') }}" alt="">
+                        </div>
+                        <div class="media-body media-middle">
+                            TEL: +226 63121212 <br>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-sm-12-->
+
+            </div>
+            <!--end row-->
+
+        </div>
+        <!--end container-->
+
+    </div>
+
+
+
+    {% block footer %}
+
+        <!--begin footer -->
+        <div class="footer">
+
+            <!--begin container -->
+            <div class="container">
+
+                <!--begin row -->
+                <div class="row">
+
+                    <!--begin col-md-12 -->
+                    <div class="col-md-12 text-center">
+
+                        <!--begin copyright -->
+                        <div class="copyright">
+                            <p>Copyright © 2016 slb. Designed by <a href="http://themeforest.net/user/bogdan_09/portfolio?ref=bogdan_09" target="_blank">YENTECK</a></p>
+
+                        </div>
+                        <!--end copyright -->
+
+                        <!--begin footer_social -->
+                        <ul class="footer_social">
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-pinterest"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-skype"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icon icon-dribble"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        <!--end footer_social -->
+
+                    </div>
+                    <!--end col-md-6 -->
+
+                </div>
+                <!--end row -->
+
+            </div>
+            <!--end container -->
+
+        </div>
+        <!--end footer -->
+    {% endblock %}
+
+
+
+
+
+{% endblock body %}
+
+{% block javascripts %}
+    <!-- Load JS here for greater good =============================-->
+    {{ parent() }}
+
+{% endblock javascripts %}

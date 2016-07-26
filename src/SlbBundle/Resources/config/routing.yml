@@ -1,3 +1,9 @@
 slb_homepage:
     path:     /
     defaults: { _controller: SlbBundle:Default:index }
+
+
+
+prod_mil:
+    path:     /produits/mil
+    defaults: { _controller: SlbBundle:Produits:mil }

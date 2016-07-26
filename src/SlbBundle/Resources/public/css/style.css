@@ -881,9 +881,7 @@ p.newsletter_success_box{
 	-webkit-transition: all .25s ease-in-out;
 }
 
-.team-item:hover h3{
-	color:#228798;
-}
+
 
 .team-box p.team-info{
 	font-size:16px;
